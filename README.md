@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **DSA MERN**
 
-- 📫 How to reach me **mishrasudhanshu855@gmail.com**
+- 📫 How to reach me , you can email me at  **mishrasudhanshu855@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Qg1ao_Z61ShaOsoia4h2tf4yhdyxN4p8/view](https://drive.google.com/file/d/1Qg1ao_Z61ShaOsoia4h2tf4yhdyxN4p8/view)
+- 📄 Check out my resume [https://drive.google.com/file/d/1Qg1ao_Z61ShaOsoia4h2tf4yhdyxN4p8/view](https://drive.google.com/file/d/1Qg1ao_Z61ShaOsoia4h2tf4yhdyxN4p8/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
