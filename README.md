@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🔭 I’m currently working on **Personal_portofolio**
+- 🔭 I’m currently working on **Movix App**
 
 - 🌱 I’m currently learning **DSA,MERN**
 
