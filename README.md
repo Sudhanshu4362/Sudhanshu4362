@@ -5,9 +5,9 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🔭 I’m currently working on **Movix App**
+- 🔭 I’m currently working on **React native**
 
-- 🌱 I’m currently learning **DSA,MERN**
+- 🌱 I’m currently learning **DSA,MERN,Spring boot**
 
 - 💬 Ask me about **DSA MERN**
 
