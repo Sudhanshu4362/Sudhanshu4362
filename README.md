@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🔭 I’m currently working on **React native**
+- 🔭 I’m currently working on **Spring Boot**
 
 - 🌱 I’m currently learning **DSA,MERN,Spring boot**
 
